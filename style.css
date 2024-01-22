@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    padding: 100px;
+
+}
+
+button {
+    padding: 16px;
+    margin: 8px;
+    height: 128px;
+    width: 128px;
+}
